@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/quizwall"
+    android:orientation="vertical"
+    tools:context=".Main7Activity">
+
+    <TextView
+        android:id="@+id/tvtitle7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="STATISTIKA"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/tvstats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="ODGOVORILI STE TACNO NA 0/5 PITANJA I TIME DOBILI OCENU 1"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_marginTop="55dp" />
+
+    <TextView
+        android:id="@+id/tvres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="POSTIGLI STE LOS REZULTAT!"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_marginTop="55dp" />
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
